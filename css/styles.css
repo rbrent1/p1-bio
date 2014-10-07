@@ -1,5 +1,17 @@
 /* Your Website Styles */
 
+h1{
+	color: #79D2C8;
+	font-family: 'Lobster Two', cursive;
+	background: purple;
+	width: 300px;
+	padding: 10px;
+	border: 10px solid pink;
+}
+
+body{
+	background: url(../img/bg.png);
+}
 
 /* Show Grid */
 .showgrid {
