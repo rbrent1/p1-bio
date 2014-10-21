@@ -1,16 +1,11 @@
 /* Your Website Styles */
 
 h1{
-	color: #79D2C8;
-	font-family: 'Lobster Two', cursive;
-	background: white;
-	width: 300px;
-	padding: 10px;
-	border: 10px solid pink;
+	
 }
 
 body{
-	background: url(../img/bg.png);
+	background: url(../img/floralbg.png);
 }
 
 /* Show Grid */
