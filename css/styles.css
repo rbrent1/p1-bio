@@ -4,15 +4,12 @@ h1{
 	font-family: 'Raleway', sans-serif;
 }
 
-p{
-	font-family: 'Raleway', sans-serif;
+#work {
+	width: 333px;
 }
+
 
 body{
 	background: url(../img/floralbg.png);
 }
 
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
-}
