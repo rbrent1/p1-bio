@@ -1,7 +1,11 @@
 /* Your Website Styles */
 
 h1{
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Raleway', sans-serif;
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
 }
 
 body{
