@@ -39,6 +39,16 @@ p{
 	height: 110px;
 }
 
+#instagram img {
+	width: 110px;
+	height: 110px;
+}
+
+#pinterest img {
+	width: 110px;
+	height: 110px;
+}
+
 
 body{
 	background: url(../img/bg.png);
