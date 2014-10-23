@@ -1,8 +1,15 @@
 /* Your Website Styles */
 
 h1{
+	font-family: 'Comfortaa', cursive;
+	color: white;
+}
+
+h2{
+	color: white;
 	font-family: 'Raleway', sans-serif;
 }
+
 
 #work img {
 	width: 320px;
@@ -10,6 +17,7 @@ h1{
 
 #work2 img {
 	width: 320px;
+	height: 300px;
 }
 
 
