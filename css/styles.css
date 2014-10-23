@@ -17,17 +17,19 @@ p{
 
 
 #work img {
-	width: 320px;
-	height: ;
+	max-width: 100%;
+	height: auto;
 }
 
 #work2 img {
-	width: 320px;
+	max-width: 100%;
+	height: auto;
 }
 
 
 #work3 img {
-	width: 320px;
+	max-width: 100%;
+	height: auto;
 }
 
 
